@@ -1,0 +1,183 @@
+body{
+    background-color: dimgray;
+}
+header{
+    background-color: aliceblue;
+    border: 5px solid ;
+    border-color: firebrick;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    margin-left: 40%;
+    padding: 10px;
+    color: firebrick;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 5px darkmagenta;
+    text-shadow: 1px 1px 3px rgb(238, 5, 5);
+}
+.line{
+    padding-top: 3px;
+    border: 0.5px solid white;
+    
+}
+.address{
+    background-color: aliceblue;
+    border: 5px solid;
+    border-color:firebrick;
+    border-radius: 10px;
+    font-weight: bolder;
+    width: 300px;
+    color: black;
+    text-align: center;
+    margin-left: 80px;
+    padding-top: 10px;
+    font-size: larger;
+    font-weight: bolder;
+    box-shadow: 5px 5px darkmagenta;
+    text-shadow: 1px 1px 3px darkmagenta;
+   
+    
+    
+}
+.image{
+    background-color: aliceblue;
+    border: 5px solid;
+    border-color: firebrick;
+    border-radius: 10px;
+    margin-left: 800px;
+    box-shadow: 5px 5px darkmagenta;
+    width: 300px;
+    margin-right: 30px;
+    justify-content: center;
+   
+}
+img{
+   width: 150px;
+   height: 150px;
+   padding-left: 70px;
+   padding-top: 30px;
+   padding-bottom: 25px;
+}
+.btn{
+    background-color: red; 
+    border-radius: 10px;
+}
+.dtls{
+    display: flex;
+    margin-top: 30px;
+}
+.serve{
+    background-color: aliceblue;
+    border: 5px solid;
+    border-color:firebrick;
+    border-radius: 10px;
+    width: 300px;
+    color: rgb(7, 7, 7);
+    text-align: start;
+    margin-left: 80px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bolder;
+    box-shadow: 5px 5px darkmagenta;
+    text-shadow: 1px 1px 3px darkmagenta;
+    font-size: larger;
+}
+.rig{
+  background-color: aliceblue;
+  border: 5px solid;
+  border-color: firebrick;
+  border-radius: 10px;
+  width: 300px;
+  color:rgb(6, 6, 6);
+  margin-left: 800px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+ margin-right: 25px;
+ box-shadow: 5px 5px darkmagenta;
+ margin-top: 50px;
+ text-shadow: 1px 1px 3px darkmagenta;
+ 
+}
+b{
+    color: rgb(12, 11, 12);
+    margin-bottom: 10px;
+}
+.atl{
+    border: 5px solid;
+    border-color: green;
+    padding-bottom: 30px;
+}
+.arc{
+    border: 6px solid;
+    border-color:darkmagenta;
+    width: 60%;
+    background-color: green;
+    margin-left: 300px;
+    margin-top: 20px;
+
+}
+.store{
+    display: flex;
+   
+    text-align: center;
+}
+.fruits{
+    background-color: darkkhaki;
+    line-height: 30px;
+    text-align: center;
+    width: 50%;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.vegetables{
+    background-color: darkkhaki;
+    line-height: 30px;
+    text-align: center;
+    width: 50%;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    
+}
+h1{
+    text-align: center;
+}
+.other{
+    background-color: darkkhaki;
+    padding-bottom: 20px;
+    
+}
+.list{
+    text-align: center;
+    line-height: 40px;
+}
+.itms{
+    text-align: center;
+   font-style: italic;
+}
+.fixedone{
+    display: flex;
+    text-align: center;
+    background-color: rgb(0, 255, 55);
+    border: 5px solid;
+    border-color: rgb(248, 4, 4);
+    border-radius: 10px;
+    box-shadow: 5px 5px darkmagenta;
+    margin-left: 38%;
+    position: fixed;
+    font-style: italic;
+    font-weight: bolder;
+    color: red;
+    
+   
+}
+.dscnt{
+    padding-left: 30px;
+    padding-right: 10px;
+}
+.EO{
+    padding-left: 10px;
+
+}
